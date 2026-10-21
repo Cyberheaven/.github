@@ -24,7 +24,7 @@ resources from across the web.
 
 - 💬 **Join the community** on [Discord](https://discord.gg/QH8mRSCdW9): ask questions, share what you’re learning, help others.
 - ✍️ **Write or review an article.** Pitch an idea on Discord or [by email](mailto:cyberheavenhq@proton.me?subject=Article%20idea).
-- 🛠️ **Improve the website.** The site lives in [**Cyberheaven/CyberHeaven**](https://github.com/Cyberheaven/CyberHeaven): issues, discussions and pull requests welcome.
-- 🗣️ **Join the conversation** in [Discussions](https://github.com/Cyberheaven/CyberHeaven/discussions).
+- 🛠️ **Improve the website.** The site lives in [**Cyberheaven/cyberheaven.github.io**](https://github.com/Cyberheaven/cyberheaven.github.io) (live at [cyberheaven.github.io](https://cyberheaven.github.io)): issues, discussions and pull requests welcome.
+- 🗣️ **Join the conversation** in [Discussions](https://github.com/Cyberheaven/cyberheaven.github.io/discussions).
 
 <p align="center"><sub>Everything is free, for everyone. Thanks for helping keep it that way.</sub></p>
